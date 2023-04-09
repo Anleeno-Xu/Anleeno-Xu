@@ -2,10 +2,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anleeno-Xu&show_icons=true&theme=tokyonight" alt="Anleeno" height="160px" align="right" />
 
-- 🏫 Education: BSE, ME ...
-- 🔭 Studying: classification, object detection ... in the field of computer vision.
-- 🌱 Hobbies: music, anime, science fiction, philosophy, meditation ... 
-- 🍁 Motto: Let life be beautiful like summer flowers and death like autumn leaves.
+- 🏫 *Education: BSE, ME* ...
+- 🔭 *Studying: Computer vision*
+- 🌱 *Hobbies: Music, reading, anime, science fiction, philosophy, meditation* ... 
+- 🍁 *Motto: Let life be beautiful like summer flowers and death like autumn leaves.*
 
 <br><br>
 
