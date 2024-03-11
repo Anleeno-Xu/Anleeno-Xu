@@ -11,7 +11,7 @@
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anleeno-Xu&theme=dracula&no-bg=true" alt="Anleeno" height="160" align="center" style="margin: auto;margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anleeno-Xu&theme=onedark&no-bg=true&no-frame=true" alt="Anleeno" height="160" align="center" style="margin: auto;margin-bottom: 20px;" />
 <br>
 
 ### *Skills*
