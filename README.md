@@ -1,6 +1,8 @@
 <h2 align="center" style="font-size:30em;"> Hi, I'm Anleeno! Nice to meet you guys! 👋 </h2> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anleeno-Xu&show_icons=true&theme=tokyonight" alt="Anleeno" height="160px" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anleeno-Xu&show_icons=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Anleeno" height="160px" align="right" />
+
+
 
 - 🏫 *Education: Master (2023), Bachelor (2020)* ...
 - 🔭 *Research Interests: CV (AIGC, Basic Image Tasks), AI4Science*...
@@ -9,7 +11,7 @@
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anleeno-Xu&theme=dracula" alt="Anleeno" height="160" align="center" style="margin: auto;margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anleeno-Xu&theme=dracula&no-bg=true" alt="Anleeno" height="160" align="center" style="margin: auto;margin-bottom: 20px;" />
 <br>
 
 ### *Skills*
